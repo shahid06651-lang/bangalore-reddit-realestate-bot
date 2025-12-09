@@ -1,0 +1,5 @@
+praw
+python-telegram-bot==13.17
+pandas
+python-dotenv
+regex
